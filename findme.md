@@ -4,8 +4,8 @@ title: Find Me
 permalink: /findme.html
 ---
 
-You can find me on the internet here:
+You can touchbase here:
 
-- [Twitter](https://twitter.com/yourhandle)
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [X](https://x.com/noorulwadudkhan)
+- noorulwadoodkhan[at]gmail[dot]com
+  
