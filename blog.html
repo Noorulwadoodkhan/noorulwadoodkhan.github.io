@@ -1,0 +1,14 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<h1>Blog</h1>
+
+{% for post in site.posts %}
+<div style="margin-bottom: 2rem;">
+  <p style="color: #999; font-size: 0.9em; margin: 0;">{{ post.date | date: "%B %d, %Y" }}</p>
+  <h2 style="margin-top: 0.2rem;"><a href="{{ post.url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a></h2>
+</div>
+{% endfor %}
