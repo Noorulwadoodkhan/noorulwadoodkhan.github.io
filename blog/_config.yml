@@ -1,0 +1,13 @@
+title: Noor’s Blog
+description: Writings, essays, and thoughts
+theme: minima
+
+# This is CRUCIAL since your blog lives under /blog
+baseurl: "/blog"
+
+# Enable dark skin
+minima:
+  skin: dark
+
+# Set timezone
+timezone: Asia/Karachi
