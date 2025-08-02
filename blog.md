@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-<h1>Blog</h1>
+<h1>Posts</h1>
 
 {% for post in site.posts %}
   <div style="margin-bottom: 2.5em;">
