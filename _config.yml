@@ -1,0 +1,15 @@
+# Site settings
+title: Noor ul Wadood Khan
+description: Your landing page + blog powered by Jekyll & Minima
+theme: minima
+
+# Dark skin
+minima:
+  skin: dark
+
+# You want your landing page at / and blog at /blog
+baseurl: ""      
+permalink: pretty
+
+# Timezone
+timezone: Asia/Karachi
