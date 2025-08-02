@@ -1,9 +1,0 @@
-title: Noor ul Wadood Khan
-email: noorulwadoodkhan[at]gmail[dot]com
-description: >-
-  I think, therefore I write. Or maybe vice versa..
-baseurl: ""
-url: "https://noorulwadoodkhan.com"
-theme: minima
-plugins:
-  - jekyll-feed
