@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+  color: #333;
+  background: #fff;
+}
+
+a {
+  color: #0076d1;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.post-date {
+  color: #aaa;
+  font-size: 0.9em;
+  margin-bottom: 0.2em;
+  display: block;
+}
+
+h1.post-title {
+  margin-bottom: 1rem;
+}
+
+ul.posts {
+  list-style: none;
+  padding: 0;
+}
+
+ul.posts li {
+  margin-bottom: 1.5rem;
+}
