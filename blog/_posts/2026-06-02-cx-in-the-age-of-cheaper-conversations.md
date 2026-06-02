@@ -1,4 +1,9 @@
-# CX, In the age of cheaper conversations
+---
+layout: post
+title:  "CX, In the age of cheaper conversations"
+date:   2026-06-02 10:00:00 
+---
+
 
 This piece is about CX in the era of agents. I've spent the last 6 months building in the CX space, talking to founders, operators and CX leaders to figure this out in real time. These are my findings, if you're one of those mentioned above, this is for you.
 
@@ -68,7 +73,7 @@ When marginal conversation cost approaches zero, the entire customer lifecycle b
 
 The architectural insight here is important: **every one of those is a customer-facing agent.** That's not five different products from five different vendors. It's one coherent system that owns the relationship. The artificial separation between marketing, sales, support, and retention is a legacy of organizational silos, not customer reality. The customer doesn't experience these as different functions. Soon, the technology won't either. The economics of CX (cost per conversation, resolution rate, lifetime value impact) will collapse into a single ledger. And whoever owns that ledger will own a category.
 
-![A layered diagram of the unified CX lifecycle. The top row shows five lifecycle stages — Discovery (Awareness), Pre-sales (Qualification), Purchase (Conversion), Support (Resolution), and Retention (Loyalty) — feeding into a single Unified CX Agent Layer (one vendor, full lifecycle, outcome-based). That layer sits on top of the systems of record it orchestrates: CRM (customer data), Comms (email, chat, voice), Loyalty (rewards & points), and Subscriptions (billing, renewals). A dashed feedback loop runs from the systems of record back into the agent layer — the data flywheel, where every interaction trains the intelligence layer.](images/lifecycle-architecture.png)
+![A layered diagram of the unified CX lifecycle. The top row shows five lifecycle stages — Discovery (Awareness), Pre-sales (Qualification), Purchase (Conversion), Support (Resolution), and Retention (Loyalty) — feeding into a single Unified CX Agent Layer (one vendor, full lifecycle, outcome-based). That layer sits on top of the systems of record it orchestrates: CRM (customer data), Comms (email, chat, voice), Loyalty (rewards & points), and Subscriptions (billing, renewals). A dashed feedback loop runs from the systems of record back into the agent layer — the data flywheel, where every interaction trains the intelligence layer.](/blog/images/lifecycle-architecture.svg)
 
 *For CX leaders:* the vendor who owns your full customer lifecycle will own your most valuable interaction data. How that relationship gets defined, on your terms or theirs, is worth thinking about now, before the category firms up.
 
