@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The First Principles of Agent Economy"
+title: "the first principles of agent economy"
 date: 2026-08-01
 ---
 
